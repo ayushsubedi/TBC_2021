@@ -8,6 +8,7 @@ materials for TBC 2021 Data Science course
 - exploratory data analysis, data visualization, data wrangling
 - data viz in tableau
 - flask, streamlit and deploying a ML app on heroku
+- model pickling
 - ML supervised classification
 - ML supervised regression
 - ML model evaluation
